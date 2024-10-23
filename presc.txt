@@ -1,0 +1,7 @@
+Prescription:
+Name: John Smith
+Address: 1234 Elm Street, Springfield, USA
+Sphere: 1.5, Cylinder: -1.0, Axis: 90
+Eye Exam Date: 12/12/23
+Optometrist: Dr. Smith
+
